@@ -1,0 +1,43 @@
+{
+    "name": "Broskees #4",
+    "description": "Broskees is a collection of 1691 individuals inspired by fashion, food and popular culture",
+    "image": "ipfs://QmTDgXLaj4suw6qmVtR8xxzT7jGRBRXiVy47m3LQfhTWeY/4.png",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Dawn"
+      },
+      {
+        "trait_type": "Tee",
+        "value": "Abloh"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Evil Eye Repulsor"
+      },
+      {
+        "trait_type": "Type",
+        "value": "B2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mild Fart"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "MAYC"
+      },
+      {
+        "trait_type": "Head",
+        "value": "King"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sheesh Shades"
+      },
+      {
+        "trait_type": "Group",
+        "value": "Broskees"
+      }
+    ]
+  }

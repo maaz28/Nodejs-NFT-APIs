@@ -1,0 +1,43 @@
+{
+    "name": "Broskees #3",
+    "description": "Broskees is a collection of 1691 individuals inspired by fashion, food and popular culture",
+    "image": "ipfs://QmTDgXLaj4suw6qmVtR8xxzT7jGRBRXiVy47m3LQfhTWeY/3.png",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Tee",
+        "value": "GMGN"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Evil Eye Repulsor"
+      },
+      {
+        "trait_type": "Type",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ginger-stache"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Tag Team"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown Cap"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Barney Specs"
+      },
+      {
+        "trait_type": "Group",
+        "value": "Broskees"
+      }
+    ]
+  }
